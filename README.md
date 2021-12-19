@@ -683,7 +683,7 @@ When command code == 0, than message structure is next:
 Message Id and Length are [big endian](http://en.wikipedia.org/wiki/Endianness#Big-endian).
 Body has a command-specific format.
 
-<p><a href="https://github.com/adisubagja/blynk-server/tree/master"> <img src="https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="170""/></a></p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adisubagja/blynk-server/tree/master)
 
 
 ## Licensing
